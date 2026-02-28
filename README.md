@@ -16,7 +16,7 @@ This project is a static website built to honor the legacy of Ada Lovelace. It h
 * **Responsive Layout**: Designed to be readable across different device screen sizes.
 * **Direct Documentation**: Includes a functional link to her full biography for further learning.
 
-## 🛠️ Built With
+##  Built With
 
 * **HTML5** - For the page structure and content.
 * **CSS3** - For custom styling and layout (linked via `styles.css`).
