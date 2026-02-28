@@ -6,7 +6,7 @@ A responsive tribute page dedicated to **Ada Lovelace**, the 19th-century mathem
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project is a static website built to honor the legacy of Ada Lovelace. It highlights her collaboration with Charles Babbage and her visionary understanding of the Analytical Engine's potential beyond mere calculation.
 
