@@ -21,7 +21,7 @@ This project is a static website built to honor the legacy of Ada Lovelace. It h
 * **HTML5** - For the page structure and content.
 * **CSS3** - For custom styling and layout (linked via `styles.css`).
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 ├── index.html   # Main project file
